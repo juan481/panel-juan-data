@@ -1,47 +1,32 @@
 [
-    {
-        "id": "apply-digital-latam-senior-pm",
-        "tipo": "Empleo",
-        "empresa": "Apply Digital Latam",
-        "rol": "Senior Project Manager (Managed Services, remoto LatAm)",
-        "modalidad": "Remoto",
-        "pais": "Canadá",
-        "porque": "Agencia digital global (clientes como Moderna, Kraft Heinz, Atlassian) buscando un PM senior para liderar equipos multidisciplinarios de desarrollo web/ecommerce — coincide directo con el perfil híbrido de Juan gestionando plataformas y equipos técnicos.",
-        "mensaje": "Vi la búsqueda de Senior Project Manager para el equipo de Managed Services de Apply Digital, remoto para LatAm, y quería escribirte directo.\n\nHace seis años que coordino proyectos digitales híbridos: comunicación audiovisual, desarrollo de plataformas y producción de eventos en vivo, no solo gestión de tareas. Hoy lidero la Media Office de SoftGuard, una empresa de software con oficinas en Argentina, España, Portugal e Italia — centralicé la comunicación visual de las 5 oficinas en un solo equipo, coordino diseño y proveedores con metodología ágil, y saco adelante campañas, lanzamientos y streaming en vivo. En paralelo dirijo mi propia agencia (Just Create), así que también sé lo que es manejar cuentas y timelines del lado del proveedor.\n\nTengo proyectos entregados en Argentina, España, Inglaterra y Estados Unidos, así que coordinar equipos multi-país en remoto no es nuevo para mí.\n\nTe dejo mi portfolio con casos completos: https://justcreate.com.ar/juan-cruz-rossi y el CV acá: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026.pdf\n\nCualquier cosa que necesites de mi lado, avisame.",
-        "cv": "es",
-        "fuente": "https://www.getonbrd.com/jobs/innovation-agile/senior-project-manager-apply-digital-latam-remote-d705",
-        "canal": "Formulario",
-        "fechaPublicacion": null,
-        "score": 4
-    },
-    {
-        "id": "blossom-digital-project-manager",
-        "tipo": "Empleo",
-        "empresa": "Blossom",
-        "rol": "Digital Project Manager",
-        "modalidad": "Remoto",
-        "pais": "Estados Unidos",
-        "porque": "SaaS fintech para credit unions buscando liderar el rollout de nuevas iniciativas de producto y programas piloto — encaja con la experiencia de Juan construyendo plataformas end-to-end, no solo gestionándolas.",
-        "mensaje": "I came across the Digital Project Manager opening at Blossom and wanted to reach out directly.\n\nFor the past six years I've worked at the intersection of project management, platform development and content operations — not just running timelines, but actually building the thing. A good example: I designed and built an internal portal for RE/MAX Parque from scratch — seven content types, three user roles, a training campus and an AI assistant — after first cleaning up and migrating their old site off a codebase that had been compromised. That mix of technical judgment and stakeholder coordination is what a product rollout like the ones you're running needs.\n\nRight now I run the Media Office at SoftGuard (a software company with offices across five countries) and I also run my own small agency, Just Create, so I'm used to owning both the strategic and execution side of a project.\n\nPortfolio with full case studies: https://justcreate.com.ar/juan-cruz-rossi/en\nCV: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026-EN.pdf\n\nHappy to talk through specifics whenever works for you.",
-        "cv": "en",
-        "fuente": "https://www.workingnomads.com/jobs/digital-project-manager-blossom",
-        "canal": "Formulario",
-        "fechaPublicacion": null,
-        "score": 4
-    },
-    {
-        "id": "i2b-technologies-po-pm-senior-latam",
-        "tipo": "Empleo",
-        "empresa": "I2B Technologies",
-        "rol": "Product Owner / PM Senior (remoto LatAm, freelance)",
-        "modalidad": "Remoto",
-        "pais": "Chile",
-        "porque": "Consultora de transformación digital con clientes en Norteamérica, buscando quien lleve roadmap y coordinación técnica en modalidad freelance — encaja con el perfil de Digital Transformation Lead y con la doble vía (dependencia/freelance) que Juan está evaluando.",
-        "mensaje": "Encontré la búsqueda de Product Owner / PM Senior remoto para LatAm en I2B Technologies y me pareció un buen fit para el perfil que vengo armando.\n\nLlevo seis años liderando proyectos de transformación digital con un approach híbrido: no vengo solo del lado de gestión, también entiendo de desarrollo de plataformas y comunicación. Hoy dirijo la Media Office de SoftGuard, una empresa de software con presencia en Argentina, España, Portugal e Italia — ahí centralicé la comunicación visual de 5 oficinas distintas en un solo equipo, armé el roadmap de campañas y lanzamientos, y coordiné proveedores y equipo de diseño con metodología ágil. En paralelo dirijo Just Create, mi propia agencia, así que también manejo cuentas y backlog del lado freelance — lo cual encaja bien si la posición es freelance.\n\nTengo proyectos entregados en Argentina, España, Inglaterra y Estados Unidos.\n\nPortfolio: https://justcreate.com.ar/juan-cruz-rossi\nCV: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026.pdf\n\nQuedo atento por si querés charlar.",
-        "cv": "es",
-        "fuente": "https://www.getonbrd.com/jobs/innovacion-agilidad/senior-product-owner-pm-latam-i2b-technologies-remote",
-        "canal": "Formulario",
-        "fechaPublicacion": null,
-        "score": 3
-    }
+  {
+    "id": "simetrik-project-manager-argentina",
+    "tipo": "Empleo",
+    "empresa": "Simetrik",
+    "rol": "Project Manager (Payments & Reconciliation, remoto Argentina)",
+    "modalidad": "Remoto",
+    "pais": "Colombia",
+    "porque": "Fintech en expansión (ex-YC) buscando un PM senior para implementaciones enterprise, remoto desde Argentina — encaja con la experiencia de Juan coordinando proyectos técnicos complejos con muchos stakeholders, aunque el rubro fintech sea nuevo para él.",
+    "mensaje": "Estoy armando postulaciones a roles de Project Manager en LatAm y vi la búsqueda que tienen abierta en Simetrik para liderar proyectos de implementación enterprise en Payments & Reconciliation, remoto desde Argentina.\n\nLlevo seis años coordinando proyectos digitales donde la parte técnica y la de stakeholders van juntas, no por separado. Hoy dirijo la Media Office de SoftGuard, una empresa de software con oficinas en Argentina, España, Portugal e Italia: centralicé la comunicación visual de las 5 oficinas en un solo equipo, coordino diseño y proveedores con metodología ágil, y llevo campañas, lanzamientos y streaming en vivo de punta a punta. En paralelo dirijo mi propia agencia, Just Create, así que también sé lo que es responder por presupuesto, timeline y expectativas del cliente del otro lado del mostrador.\n\nNo vengo del mundo fintech, pero la gestión de proyectos complejos con muchos stakeholders y alta exigencia de calidad es exactamente lo que vengo haciendo. Tengo proyectos entregados en Argentina, España, Inglaterra y Estados Unidos.\n\nPortfolio con casos completos: https://justcreate.com.ar/juan-cruz-rossi\nCV: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026.pdf\n\nQuedo atento por si quieren charlar.",
+    "cv": "es",
+    "fuente": "https://builtin.com/job/project-manager-argentina/7479302",
+    "canal": "Formulario",
+    "fechaPublicacion": "2026-07-13",
+    "score": 4
+  },
+  {
+    "id": "kruger-nearshore-project-manager-latam",
+    "tipo": "Empleo",
+    "empresa": "Kruger NearShore (Rekluti)",
+    "rol": "Project Manager / Gerente de Proyecto (remoto LatAm, clientes internacionales)",
+    "modalidad": "Remoto",
+    "pais": "Estados Unidos",
+    "porque": "Consultora de staffing tech que coloca PMs para proyectos de software a gran escala de clientes internacionales, 100% remoto para toda LatAm — coincide con el perfil híbrido de Juan (gestión + desarrollo de plataformas) y su experiencia manejando cuentas desde su propia agencia.",
+    "mensaje": "Vi que Rekluti (Kruger NearShore) está buscando un Project Manager para llevar adelante proyectos de software a gran escala para clientes internacionales, 100% remoto para LatAm, y quería postularme directo.\n\nUn caso que resume bien cómo trabajo: para RE/MAX Parque diseñé y construí desde cero un portal interno para agentes inmobiliarios —7 tipos de contenido, 3 roles de usuario, campus de capacitaciones y un asistente con IA—, pero antes tuve que limpiar el sitio que habían tenido comprometido y migrar todo a una base limpia. No solo gestioné el proyecto: entendí el problema técnico, tomé las decisiones de arquitectura y sostuve la relación con el cliente durante todo el proceso.\n\nHace seis años que trabajo así, entre gestión de proyectos, desarrollo de plataformas y coordinación de equipos. Hoy dirijo la Media Office de SoftGuard (oficinas en Argentina, España, Portugal e Italia) y en paralelo mi propia agencia, Just Create. Tengo proyectos entregados en Argentina, España, Inglaterra y Estados Unidos.\n\nPortfolio: https://justcreate.com.ar/juan-cruz-rossi\nCV: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026.pdf\n\nCualquier duda, me escribís.",
+    "cv": "es",
+    "fuente": "https://jobgether.com/offer/6a61528f1b23f4f87b3183ff-project-manager---latam",
+    "canal": "Formulario",
+    "fechaPublicacion": "2026-07-24",
+    "score": 4
+  }
 ]
