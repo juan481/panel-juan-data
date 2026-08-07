@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "oliver-agency-senior-pm-producer-dove-argentina",
+    "tipo": "Empleo",
+    "empresa": "OLIVER Agency (Buenos Aires) — in-house para Dove/Unilever",
+    "rol": "Senior Project Manager/Producer (contenido social Dove)",
+    "modalidad": "Híbrido",
+    "pais": "Argentina",
+    "porque": "OLIVER se especializa en construir y operar agencias in-house dentro de marcas grandes (300+ clientes, 40+ países) — este rol es sostener el motor de producción de contenido social de Dove, el mismo tipo de desafío que Juan resolvió armando la Media Office puertas adentro de SoftGuard.",
+    "mensaje": "Me crucé con la búsqueda de Senior Project Manager/Producer para el equipo de contenido social de Dove en OLIVER Buenos Aires, y te escribo directo en vez de solo mandar el CV por el formulario.\n\nLo que ustedes hacen en OLIVER —construir y operar la agencia in-house de una marca desde adentro— es exactamente el tipo de desafío que vengo resolviendo hace seis años. Hoy dirijo la Media Office de SoftGuard, una empresa de software con oficinas en Argentina, España, Portugal e Italia: armé el equipo que centraliza la comunicación visual de esas 5 oficinas, coordino diseño y proveedores con metodología ágil, y saco adelante campañas, lanzamientos y streaming en vivo de punta a punta, con ritmo de entrega rápido y muchos stakeholders en simultáneo. Es básicamente el mismo problema que plantea sostener la producción de contenido social de una marca como Dove: mantener el motor de producción funcionando sin bajar la calidad.\n\nEn paralelo dirijo mi propia agencia, Just Create, así que también conozco la producción del lado de proveedor.\n\nPortfolio con casos completos: https://justcreate.com.ar/juan-cruz-rossi y el CV: https://justcreate.com.ar/juan-cruz-rossi/portfolio/Rossi-Juan-Cruz-CV-2026.pdf\n\nCualquier cosa que necesites de mi lado, avisame.",
+    "cv": "es",
+    "fuente": "https://job-boards.greenhouse.io/oliverargentina/jobs/7818581",
+    "canal": "Mail",
+    "fechaPublicacion": null,
+    "score": 4
+  },
+  {
+    "id": "inmobiliaria-correa-mendoza-waas",
+    "tipo": "B2B",
+    "empresa": "CORREA Servicios Inmobiliarios",
+    "rol": "WaaS (sitio con mantenimiento por suscripción, migración a HTTPS)",
+    "modalidad": "Remoto",
+    "pais": "Argentina",
+    "porque": "El sitio de la inmobiliaria (inmobiliariacorrea.com.ar), con más de 20 años en el mercado de Mendoza, sigue serviendo por http sin HTTPS — misma señal de plataforma vieja que Just Create ya resolvió para RE/MAX Parque.",
+    "mensaje": "Estaba viendo inmobiliarias de Mendoza y noté que el sitio de CORREA Servicios Inmobiliarios todavía carga por http, sin el candado de seguridad (HTTPS). Con más de 20 años en el mercado seguramente tienen bastante tráfico de gente buscando comprar o alquilar, y hoy los navegadores marcan esos sitios como \"no seguro\" — eso espanta visitas y complica el posicionamiento en Google.\n\nCon mi agencia (Just Create) resolvimos justo este problema para RE/MAX Parque: construimos desde cero un portal para sus agentes (carga de propiedades, roles, capacitaciones, asistente con IA), pero antes tuvimos que limpiar y migrar su sitio anterior —que estaba comprometido— a una base nueva y segura. Es más común de lo que parece en sitios inmobiliarios con algunos años encima.\n\nOfrecemos WaaS: un sitio nuevo con mantenimiento incluido por suscripción, sin sorpresas aparte. Si querés que lo miremos sin compromiso, te dejo el portfolio: https://justcreate.com.ar/juan-cruz-rossi y mi mail: juancruzrossi1@gmail.com\n\nSi no es el momento, decime y no te vuelvo a escribir por esto.",
+    "cv": "es",
+    "fuente": "http://www.inmobiliariacorrea.com.ar/",
+    "canal": "Mail",
+    "fechaPublicacion": null,
+    "score": 3
+  }
+]
